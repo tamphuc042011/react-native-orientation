@@ -16,5 +16,6 @@ android {
 }
 
 dependencies {
-    compile "com.facebook.react:react-native:+"
+    //compile "com.facebook.react:react-native:+"
+    api "com.facebook.react:react-native:+"
 }
